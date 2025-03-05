@@ -1,0 +1,4 @@
+dash
+gradio
+transformers
+torch
